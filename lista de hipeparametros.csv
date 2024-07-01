@@ -1,0 +1,16 @@
+﻿No.;Nombre del modelo;Lista de hiper-parámetros;Métrica resultante;Tiempo de entrenamiento;Fecha y hora de finalización del entrenamien to;;
+1;LDA;Acurracy;0.997727273;0.2;28/06/2024 22:44 Hrs;;
+2;Naive Bayes;test_size y random_state;0.992366412;0;28/06/2024 22:45 Hrs;;
+3;Regresión logística;cv, scoring;0.86259542;0.1;28/06/2024 22:54 Hrs;;
+4;SVM-Support Vector Machines Lineales.;;0.86259542;0;28/06/2024 22:56 Hrs;;
+5;Random Forest;n_estimators, criterion, max_depth;0.809160305;6.13;28/06/2024 23:34 Hrs;;
+6;Arboles de decisión;;0.98;0.8;28/06/2024 23:44 Hrs;;
+7;Gradient Bosting;;0.98;0.6;30/06/2024 18:35 Hrs;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
