@@ -16,3 +16,4 @@ Para el presente proceso, de crearon y entrenaron varios modelos, tales, como Na
 Conclusión:
 Para la creación del modelo, se estableció que el mejor fue el de LDA o análisis de Discriminante Lineal; sin embargo, de conformidad con lo requiere el cliente, el tipo de problema y el tipo de dataset o base de datos, puede determinarse otro tipo de modelo. 
 
+
